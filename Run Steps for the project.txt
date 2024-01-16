@@ -1,0 +1,6 @@
+create database -> big_boost_ecommerce
+ php artisan migrate
+npm install
+php artisan db:seed
+php artisan create:permission
+php artisan serve
